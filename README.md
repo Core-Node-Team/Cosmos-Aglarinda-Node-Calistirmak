@@ -1,4 +1,8 @@
 # CosmosSDK-Node
-CosmosSDK üzerinde geliştirilen projelerin nodeları için rehber
+
 
 # Bu repo Cosmos SDK üzerinde geliştirilen projelerin node kurulumları için genel bilgiler içerir
+
+## [Komutlar](https://github.com/Core-Node-Team/CosmosSDK-Node/blob/main/Ortak-Komutlar.md)
+
+## [Node Yedekleme ve Taşıma](https://github.com/Core-Node-Team/CosmosSDK-Node/blob/main/Yedekleme%20ve%20Ta%C5%9F%C4%B1ma.md)
