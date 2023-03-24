@@ -1,11 +1,11 @@
 
 
 ## Cosmos SDK projelerinin hepsi aynı altyapı üzerine kurulmuştur ve node çalıştırırken aynı komutları kullanırız fakat bu komutlarda bazı değişkenler vardır bunlar:
-* ###  node ismi: tamamına yakınında projenin isminin sonuna d eklenmiş hali node ismidir sei için seid, gitopia için gitopiad, stride için strided...
-* ###  token ismi: her ağın bir tokeni vardır ve bu bu tokenin ismi genelde ağın ismi ile aynıdır fakat komutlarda bir tokenin milyonda biri birimi ile kullanırız bunun için de token isminin başına u eklenir . sei için usei gitopia için utlore stride için ustride...
-* ###  chain-id: her zincirin bir chain id'si vardır, bunu proje ekibi kafasına göre belirliyor sanırım, nodunu kurduğunuz ağın chain id'sini bilirsiniz zaten
-* ### cüzdanismi: cüzdan oluştururken ismini belirlersiniz
-* ###  moniker: bu da validatörünüzün ismidir ve kendiniz belirlersiniz
+> * ###  node ismi: tamamına yakınında projenin isminin sonuna d eklenmiş hali node ismidir sei için seid, gitopia için gitopiad, stride için strided...
+> * ###  token ismi: her ağın bir tokeni vardır ve bu bu tokenin ismi genelde ağın ismi ile aynıdır fakat komutlarda bir tokenin milyonda biri birimi ile kullanırız bunun için de token isminin başına u eklenir . sei için usei gitopia için utlore stride için ustride...
+> * ###  chain-id: her zincirin bir chain id'si vardır, bunu proje ekibi kafasına göre belirliyor sanırım, nodunu kurduğunuz ağın chain id'sini bilirsiniz zaten
+> * ### cüzdanismi: cüzdan oluştururken ismini belirlersiniz
+> * ###  moniker: bu da validatörünüzün ismidir ve kendiniz belirlersiniz
 
 
 ## senkronizasyon durumu:
