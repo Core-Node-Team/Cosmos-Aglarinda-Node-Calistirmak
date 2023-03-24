@@ -115,7 +115,7 @@ nodeismi tx distribution withdraw-all-rewards --from cüzdanismi --chain-id chai
 nodeismi tx slashing unjail --from cüzdanismi --chain-id chain id --gas auto
 ```
 ## proposallarda oy kullanma: 
-* bu komuttaki `1` proposal numarasıdır kaçıncı proposala oy veriyorsanız onun numarsını yazarsınız. `yes` kısmı ise kullandığınız oy no yazabilirsiniz
+> bu komuttaki `1` proposal numarasıdır kaçıncı proposala oy veriyorsanız onun numarsını yazarsınız. `yes` kısmı ise kullandığınız oy no yazabilirsiniz
 ```
 nodeismi tx gov vote 1 yes --from cüzdanismi --chain-id chain id  --gas auto –y  
 ```
