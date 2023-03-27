@@ -27,7 +27,7 @@ lsof -i -P -n | grep LISTEN
 
 
 # Değişen Portları Kontrol ettiğinizde VPS'inizde aktif olan portlar degismediyse port degistirmek istediginiz node'a manuel olarak restart atin 
-Örnegin nibiru projesi için kullanılan systemctl ismi olan nibid gibi.. -->
+Örnegin nibiru projesi için kullanılan systemctl ismi olan "nibid" gibi
  
  ```
  sudo systemctl restart nibid 
