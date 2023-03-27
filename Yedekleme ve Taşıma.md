@@ -93,9 +93,11 @@ Bende gördüğünüz gibi .nibid ve .quasarnode klasörleri açığa çıktı.
 
 > ## 3. Adım
 > - ### Nodenizin ağ ile senkronize olmasını bekleyin.
+>   - [Senkronize olmak nedir?](https://github.com/Core-Node-Team/Cosmos-Aglarinda-Node-Calistirmak/blob/main/Sync-Peer%20Nedir.md)
 
 > ## 4. Adım
 > - ### Önceki nodeyi durdurun.
+>   - `sudo systemctl stop nodeismi`
 
 > ## 5. Adım
 > - ### Yeni kurduğunuz nodenin config kalsörü altındaki priv_validator_key.json dosyasını yedeklediğiniz dosya ile değiştirin
