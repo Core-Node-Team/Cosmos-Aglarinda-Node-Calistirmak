@@ -4,12 +4,10 @@
 
 ![image](https://user-images.githubusercontent.com/108215275/227780786-8c36dcff-1afd-4f76-90b1-d4183a9ddef7.png)
 
-<h1>
+# Core Node Sosyal Medya [Twitter](https://twitter.com/corenodeHQ)|[Discord](https://discord.gg/fzzUAU9k)|[Telegram](https://t.me/corenodechat)
   
- Telegram sohbet grubu [Core Node Chat](https://t.me/corenodechat)
-  
-</h1>
-
+ 
+ 
 </div>
 
 
@@ -31,11 +29,11 @@
 ## [Port Değiştirme](https://github.com/Core-Node-Team/CosmosSDK-Node/blob/main/Port%20de%C4%9Fi%C5%9Ftirme.md)
 ## [Sync-Peer-FAQ](https://github.com/Core-Node-Team/Cosmos-Aglarinda-Node-Calistirmak/blob/main/Sync-Peer%20Nedir.md)
 
+<div align="center">
 
+### Sorularınız olursa telegram sohbet grubumuz ve discord sunucumuza katılabilirsiniz.
 
-
-
-
+</div>
 
 
 
