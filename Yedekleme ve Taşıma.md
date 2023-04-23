@@ -103,7 +103,10 @@ Bende gördüğünüz gibi .nibid ve .quasarnode klasörleri açığa çıktı.
 > - ### Yeni kurduğunuz nodenin config kalsörü altındaki priv_validator_key.json dosyasını yedeklediğiniz dosya ile değiştirin
 > - ### Ardından nodeyi yeniden başlatın `sudo systemctl restart nodeismi` 
 
-
+> # Kontrol etme
+> -  ### `nodeismi status 2>&1 | jq .ValidatorInfo` komutunun çıktısındaki `Address` kısmının explorerda validatör detyalarındaki `HEX` adresi ile aynı olduğunu kontrol edin
+> - ### `nibid q staking validator $(nibid keys show wallet --bech val -a)` komutunun çıktısındaki validatör detaylarının doğru olduğunu kontrol edin.
+>   - bu komutta `wallet`yerine cüzdan isminizi yazmanız gerekebilir.
 
 
 
